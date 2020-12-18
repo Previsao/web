@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>🔮 Previsão</title>
+        <title>Previsão.club</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -21,12 +21,12 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://twitter.com/codingsh"
+          href="https://twiiter.com/previsaoclub"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by @codingsh
-          
+          Powered by 🔮 Previsao
+           
         </a>
       </footer>
     </div>
