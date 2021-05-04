@@ -21,12 +21,12 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://twiiter.com/previsaoclub"
+          href="https://twitter.com/previsaoclub"
           target="_blank"
           rel="noopener noreferrer"
         >
           Powered by 🔮 Previsao
-           
+
         </a>
       </footer>
     </div>
